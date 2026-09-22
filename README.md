@@ -250,8 +250,15 @@ The `oem_dashboard` folder will contain the genuine OEM evidence once the requir
 
 I confirm that the work documented in this repository represents my own practical work completed for this assignment. The screenshots and database results are based on commands executed in my Oracle database environment.
 
-## Submission
+## Submission Details
 
-**Student:** Manzi Michael
-**Student ID:** 27713
-**Repository:** `oracle_pdb_ass_II_27713_michael`
+* **Student Name:** Manzi Michael
+* **Student ID:** 27713
+* **Repository Link:** [Paste your GitHub repository URL here]
+* **PDB Name Created:** MI_PDB_27713
+* **Issues Encountered:** Yes — Oracle 26ai required an explicit `FILE_NAME_CONVERT` path when creating the PDB. The issue was resolved by using the correct PDB seed and destination paths.
+
+### Integrity Statement
+
+I confirm that the Oracle PDB work, screenshots, and documentation in this repository represent my own execution and work for this assignment.
+
