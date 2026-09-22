@@ -254,7 +254,7 @@ I confirm that the work documented in this repository represents my own practica
 
 * **Student Name:** Manzi Michael
 * **Student ID:** 27713
-* **Repository Link:** [Paste your GitHub repository URL here]
+* **Repository Link:** https://github.com/ManziMichael/oracle_pdb_ass_II_27713_michael
 * **PDB Name Created:** MI_PDB_27713
 * **Issues Encountered:** Yes — Oracle 26ai required an explicit `FILE_NAME_CONVERT` path when creating the PDB. The issue was resolved by using the correct PDB seed and destination paths.
 
